@@ -2,7 +2,7 @@
 
 # Lab | Working with RSS Feeds
 
-## Introduction
+## Introductions
 
 In the Working with RSS lesson, you learned how to parse an RSS feed with the feedparser library, explore and extract components of a feed, and perform some basic analyses on the information.
 
